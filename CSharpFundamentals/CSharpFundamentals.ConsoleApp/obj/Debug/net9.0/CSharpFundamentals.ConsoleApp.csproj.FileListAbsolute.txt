@@ -1,0 +1,14 @@
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net9.0\CSharpFundamentals.ConsoleApp.exe
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net9.0\CSharpFundamentals.ConsoleApp.deps.json
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net9.0\CSharpFundamentals.ConsoleApp.runtimeconfig.json
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net9.0\CSharpFundamentals.ConsoleApp.dll
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\bin\Debug\net9.0\CSharpFundamentals.ConsoleApp.pdb
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.AssemblyInfo.cs
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.dll
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\refint\CSharpFundamentals.ConsoleApp.dll
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.pdb
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\CSharpFundamentals.ConsoleApp.genruntimeconfig.cache
+C:\Users\Reem\Desktop\c#\CSharpFundamentals\CSharpFundamentals.ConsoleApp\obj\Debug\net9.0\ref\CSharpFundamentals.ConsoleApp.dll
