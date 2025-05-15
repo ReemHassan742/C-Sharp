@@ -3,4 +3,7 @@ Console.WriteLine("Hello, World!");
 String[] names = ["Reem", "Mo", "Yoyo"];
 String name = names[^1];
 Console.WriteLine(name);
-Console.WriteLine(args.Length);
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}
